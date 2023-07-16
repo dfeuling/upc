@@ -1,5 +1,6 @@
 /*
 UPS.js
+	Node v18.16.1
 	Accepts a string argument from the command line as the first (and only) argument to the script, which should be a valid 12-value UPC code
 	Evaluates that UPC code, and if one is not provided, then the default value is used
 	White space in codes will be ignored
