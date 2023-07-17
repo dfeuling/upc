@@ -18,6 +18,7 @@ UPS.js
 const STATIC_UPC_VALUE = "6 3938200039 3";
 
 upcChecker(process.argv[2]);
+
 /*
 upcChecker function
 Inputs: Single UPC value, type String
